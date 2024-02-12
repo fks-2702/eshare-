@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 ftp = "3.0.1"
+libunftp = "0.19.1"
+unftp = "0.14.5"
